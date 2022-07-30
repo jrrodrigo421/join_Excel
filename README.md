@@ -2,7 +2,7 @@
 
 > Project, automation to Merge multiple Excel files into a single Consolidated.
 
-* Activating the Virtual Environment to start testing the Code*
+* Activating the Virtual Environment to start testing the Code *
 
 ```
 # Linux
